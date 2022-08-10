@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Regulars",
+		"leaderName": "Wallmart Jonn",
+		"adjective": ["regular"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "You curently playing as Regulars.",
+		"startIntroPart2": "Even regular people have their pros, your goal is to discover them.",
+		
+		"declaringWar": "Prepare to face us!",
+		"attacked": "Aww, come on, i was just bying Mac n Chesse!",
+		"defeated": "Please dont take our Neopets!",
+		"introduction": "Hello sir, this is MCdonalds. How can i help you?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "Hope you have something good.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Kiev", "Sydney", "London", "Tokio", "Paris", "Berlin"]
+	}
+]
