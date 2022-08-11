@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Karens",
+		"name": "Karen",
 		"unitType": "Sword",
 		"uniqueTo": "Regulars",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 20,
 		"cost": 100,
-        "uniques": ["[+45]% Strength <vs [Civilian] units>", "Can move immediately once bought" ]
-		"requiredResource": "Gold Ore"
+        "uniques": ["[+45]% Strength <vs [Civilian] units>", "Can move immediately once bought" ],
+		"requiredResource": "Gold Ore",
 	}
 ]

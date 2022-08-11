@@ -26,9 +26,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "Hope you have something good.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": ["Double quantity of [Iron] produced", "Double Happiness from Natural Wonders"]
+		"outerColor": [233,236,107],
+		"innerColor": [105,105,105],
+		"unique": ["Double quantity of [Iron] produced", "Double Happiness from Natural Wonders",],
 		"cities": ["Kiev", "Sydney", "London", "Tokio", "Paris", "Berlin"]
 	}
 ]
